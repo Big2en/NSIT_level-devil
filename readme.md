@@ -1,8 +1,2 @@
-un jeu de plateforme en 2D quiressemble au début à un jeu normal.. sauf qu'il trompe le joueur en permanence. les niveaux changent soudainement:
+Dans ce jeu d’action, le joueur contrôle un avion de chasse lancé à pleine vitesse dans un environnement dangereux. Le but est de survivre le plus longtemps possible en évitant les obstacles et les stéroïdes ennemis qui tentent de détruire l’avion.
 
--des plateformmes s'effondrent sans prévenir 
--le sol s'ouvre d'un coup
--des pièges apparaissent au dernier moment
--l'environnement "triche" pour te surprendre
-
-le but est d'avancer jusqu'à la fin du niveau, mais chaque étape est construite pour piéger le joueur et le faire mourir de manière inattendue. le jeu est connu pour son humour, sa difficulté piégeuse et ses jumpscares légers
