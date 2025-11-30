@@ -1,2 +1,1 @@
-Dans ce jeu d’action, le joueur contrôle un avion de chasse lancé à pleine vitesse dans un environnement dangereux. Le but est de survivre le plus longtemps possible en évitant les obstacles et les stéroïdes ennemis qui tentent de détruire l’avion.
-
+Dans ce jeu d’arcade, le joueur contrôle un avion qui vole en ligne droite face à une pluie de stéroïdes qui arrivent en sens inverse. Le but est simple : ne pas se faire toucher. Il n’y a ni bonus, ni amélioration, ni ennemis plus forts avec le temps. Le niveau reste toujours le même, mais la difficulté vient uniquement de la précision et des réflexes du joueur. Chaque seconde passée en vie est une victoire. Un seul choc et la partie est terminée.
